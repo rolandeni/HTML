@@ -17,7 +17,7 @@
 <body>
 
     <div id="wrapper">
-        <h1 id="pageTitle">AWS Server Information</h1>
+        <h1 id="pageTitle">Watch the IP ADDRESS and Refresh.</h1>
         <div class="twoColRow">
             <div class="serverStats">
                 <img src="./assets/server.png" alt="" class="icon">
@@ -41,7 +41,7 @@
                 </h2>
             </div>
         </div>
-        <p id="copyright">&copy; <?php echo date("Y"); ?> &bull; All Rights Reserved.</p>
+        <p id="copyright">&copy; <?php echo date("Y"); ?> &bull; Roland server informations.</p>
     </div>
 
 </body>
