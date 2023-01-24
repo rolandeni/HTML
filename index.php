@@ -17,7 +17,7 @@
 <body>
 
     <div id="wrapper">
-        <h1 id="pageTitle">Watch the IP ADDRESS and Refresh.</h1>
+        <h2 id="pageTitle">Watch the IP ADDRESS then refresh.</h2>
         <div class="twoColRow">
             <div class="serverStats">
                 <img src="./assets/server.png" alt="" class="icon">
