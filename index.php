@@ -17,7 +17,8 @@
 <body>
 
     <div id="wrapper">
-        <h2 id="pageTitle">Watch the IP ADDRESS then refresh.</h2>
+        <h2 id="pageTitle">Roland SERVERS.</h2>
+	 <h3 id="pageTitle">Watch the IP ADDRESS then refresh.</h3>
         <div class="twoColRow">
             <div class="serverStats">
                 <img src="./assets/server.png" alt="" class="icon">
